@@ -1,1 +1,3 @@
-This is my first git hub workshop. Delivered by Bhushan 2nd year.
+This is my first git hub workshop. Delivered by Bhushan kumar singh 2nd year.
+i have gone back via git checkout and made a new brach to see that as i am able to commit the modification.
+i have done in this file.
